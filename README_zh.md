@@ -1,7 +1,5 @@
 # smartcarrace
 
-[English Version](C:/Users/Jasonzzhu_/Desktop/smartcarrace/README.md)
-
 ## 项目简介
 
 本仓库用于归档我在全国大学生智能汽车竞赛讯飞创意组中的 ROS 智能车项目，保留了 2024 和 2025 两个年度的核心功能包、任务链路和比赛逻辑。
