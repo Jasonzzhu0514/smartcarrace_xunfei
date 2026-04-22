@@ -1,0 +1,3 @@
+uint16 detect_class
+float32 box_center
+float32 score

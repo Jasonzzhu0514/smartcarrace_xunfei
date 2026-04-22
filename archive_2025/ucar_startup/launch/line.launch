@@ -1,0 +1,7 @@
+<launch>
+
+  <include file="$(find ucar_controller)/launch/base_driver.launch" > </include>
+
+  <include file="$(find ydlidar)/launch/ydlidar.launch" > </include>
+
+</launch>

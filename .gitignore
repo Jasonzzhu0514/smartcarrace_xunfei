@@ -1,0 +1,35 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs / temp
+log/
+logs/
+tmp/
+*.log
+
+# Build outputs
+build/
+devel/
+install/
+
+# Nested repositories
+**/.git/
+
+# Detection / experiment outputs
+runs/
+result/detect/
+*.cache
+*.cache.npy
+
+# Local large model kept out of git
+archive_2025/ucar_startup/models/vits-melo-tts-zh_en/model.onnx
+
+# Backup and scratch
+backup/

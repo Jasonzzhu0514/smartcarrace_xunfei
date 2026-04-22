@@ -1,0 +1,12 @@
+<launch>
+  <!-- base driver -->
+  <include file="$(find ucar_controller)/launch/base_driver.launch">
+  </include>
+  <!-- lidar driver -->
+  <include file="$(find ydlidar)/launch/ydlidar.launch"/>
+  <!-- cartographer launch -->
+  <include file="$(find ucar_map)/launch/gmapping_demo.launch"/>
+  
+  <!-- <node name="rviz" pkg="rviz" type="rviz" args="-d $(find ucar_map)/cfg/map.rviz" /> -->
+
+</launch>

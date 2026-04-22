@@ -1,0 +1,3 @@
+uint16 detect_class
+float32 mid_point
+float32 score

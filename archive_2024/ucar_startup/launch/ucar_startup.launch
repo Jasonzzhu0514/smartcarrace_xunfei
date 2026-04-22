@@ -1,0 +1,6 @@
+<launch>
+  <include file="$(find speech_command)/launch/speech_command.launch" > </include>
+  <include file="$(find ucar_nav)/launch/ucar_navigation.launch" > </include>
+
+
+</launch>

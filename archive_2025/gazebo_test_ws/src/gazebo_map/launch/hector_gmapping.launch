@@ -1,0 +1,16 @@
+<launch>
+<!-- Hector SLAM -->
+    <node pkg="hector_mapping" type="hector_mapping" name="hector_mapping">
+    <!-- <param name="tf_map_scanmatch_transform_frame_name" value="base_footprint" /> -->
+    <param name="odom_frame" value="odom"/>
+
+    <param name="map_update_distance_thresh" value="0.1" />
+    <param name="map_update_angle_thresh" value="0.1" />
+    <param name="map_pub_period" value="0.1" />
+
+
+    </node>
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find gazebo_nav)/cfg/map.rviz" required="true" />
+             
+
+</launch>
