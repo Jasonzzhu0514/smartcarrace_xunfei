@@ -1,7 +1,5 @@
 # smartcarrace
 
-[中文说明 / Chinese Version]([C:/Users/Jasonzzhu_/Desktop/smartcarrace/README_zh.md](https://github.com/Jasonzzhu0514/smartcarrace_xunfei/blob/main/README_zh.md))
-
 ## Overview
 
 This repository archives my ROS-based smart car projects for the iFlytek creative track of the National College Student Smart Car Competition. It preserves the core packages, task flow, and competition logic from both the 2024 and 2025 projects in a cleaner GitHub-friendly structure.
