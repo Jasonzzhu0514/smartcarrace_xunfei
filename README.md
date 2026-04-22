@@ -1,6 +1,6 @@
 # smartcarrace
 
-[中文说明 / Chinese Version](C:/Users/Jasonzzhu_/Desktop/smartcarrace/README_zh.md)
+[中文说明 / Chinese Version]([C:/Users/Jasonzzhu_/Desktop/smartcarrace/README_zh.md](https://github.com/Jasonzzhu0514/smartcarrace_xunfei/blob/main/README_zh.md))
 
 ## Overview
 
